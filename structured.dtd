@@ -1,0 +1,11 @@
+<!ELEMENT catalogue (event+)>
+<!ELEMENT event (organizer, title, location, date, time, qualifications, registration, link)>
+<!ATTLIST event type (Tournament|Open_shoot ) #REQUIRED>
+<!ELEMENT organizer (#PCDATA)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT location (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT time (#PCDATA)>
+<!ELEMENT qualifications (#PCDATA)>
+<!ELEMENT registration (#PCDATA)>
+<!ELEMENT link (#PCDATA)>

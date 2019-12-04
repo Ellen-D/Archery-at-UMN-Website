@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE catalogue SYSTEM "structured.dtd">
+
+<catalogue>
+	<event type="Tournament">
+		<organizer>MSAA</organizer>
+		<title>Regional Indoor Tournament</title>
+		<location>TBD</location>
+		<date>1/18-1/19/20</date>
+		<time>TBD</time>
+		<cost>Free</cost>
+		<qualifications>None</qualifications>
+		<registration>Yes</registration>
+		<link>https://www.mnarchery.org/event-calendar.html</link>
+	</event>
+	<event type="Tournament">
+		<organizer>MSAA</organizer>
+		<title>Regional Indoor Tournament</title>
+		<location>TBD</location>
+		<date>1/25/20-1/26/20</date>
+		<time>TBD</time>
+		<cost>Free</cost>
+		<qualifications>None</qualifications>
+		<registration>Yes</registration>
+		<link>https://www.mnarchery.org/event-calendar.html</link>
+	</event>
+	<event type="Tournament">
+		<organizer>MSAA</organizer>
+		<title>Regional Indoor Tournament</title>
+		<location>TBD</location>
+		<date>2/01/20-2/02.20</date>
+		<time>TBD</time>
+		<cost>Free</cost>
+		<qualifications>None</qualifications>
+		<registration>Yes</registration>
+		<link>https://www.mnarchery.org/event-calendar.html</link>
+	</event>
+	<event type="Tournament">
+		<organizer>MSAA</organizer>
+		<title>State Indoor Tournament</title>
+		<location>Bemidji, MN</location>
+		<date>4/4/20-4/5/20</date>
+		<time>TBD</time>
+		<cost>Free</cost>
+		<qualifications>None</qualifications>
+		<registration>Yes</registration>
+		<link>https://www.mnarchery.org/event-calendar.html</link>
+	</event>
+</catalogue>
